@@ -1,9 +1,0 @@
-c:\users\hp\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\bin\Debug\WinformUseSP.exe.config
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\bin\Debug\WinformUseSP.exe
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\bin\Debug\WinformUseSP.pdb
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.csprojResolveAssemblyReference.cache
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.Form1.resources
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.Properties.Resources.resources
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.csproj.GenerateResource.Cache
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.exe
-C:\Users\HP\documents\visual studio 2013\Projects\WinformUseSP\WinformUseSP\obj\Debug\WinformUseSP.pdb
